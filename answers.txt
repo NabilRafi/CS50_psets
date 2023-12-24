@@ -1,0 +1,11 @@
+sort1 uses: Bubble
+
+How do you know?: It takes maximum amount of time in the upperbound time than lowerbound time.
+
+sort2 uses: Merge
+
+How do you know?: It takes the least amount of time in sorting all the samples than other two sorts
+
+sort3 uses: Selection
+
+How do you know?: It takes the same amount of time in both upper and lowerbound time.
